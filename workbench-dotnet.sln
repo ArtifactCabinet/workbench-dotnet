@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CairoDemo", "CairoDemo\CairoDemo.csproj", "{D891A47E-F5F3-4EF2-9D08-91E63DFA071E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "lib_demos", "lib_demos", "{E92A3664-B571-410B-8B4B-E270D1139CE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvalonianDemo", "AvalonianDemo\AvalonianDemo.csproj", "{2ADF2414-B941-4DF6-91DC-B5C4F77E308F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D891A47E-F5F3-4EF2-9D08-91E63DFA071E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D891A47E-F5F3-4EF2-9D08-91E63DFA071E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D891A47E-F5F3-4EF2-9D08-91E63DFA071E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D891A47E-F5F3-4EF2-9D08-91E63DFA071E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2ADF2414-B941-4DF6-91DC-B5C4F77E308F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ADF2414-B941-4DF6-91DC-B5C4F77E308F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ADF2414-B941-4DF6-91DC-B5C4F77E308F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ADF2414-B941-4DF6-91DC-B5C4F77E308F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D891A47E-F5F3-4EF2-9D08-91E63DFA071E} = {E92A3664-B571-410B-8B4B-E270D1139CE0}
+		{2ADF2414-B941-4DF6-91DC-B5C4F77E308F} = {E92A3664-B571-410B-8B4B-E270D1139CE0}
+	EndGlobalSection
+EndGlobal
